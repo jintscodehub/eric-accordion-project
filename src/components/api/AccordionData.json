@@ -1,0 +1,202 @@
+[
+  {
+    "topic": "Global NGOs",
+    "listOfURL": [
+      {
+        "Title": "UNICEF",
+        "URL": "https://www.unicef.org",
+        "Type": "NGO",
+        "Category": "Main Page",
+        "Description": "UNICEF works in over 190 countries to protect the rights of children and provide humanitarian aid."
+      },
+      {
+        "Title": "Red Cross",
+        "URL": "https://www.redcross.org",
+        "Type": "NGO",
+        "Category": "Charity Page",
+        "Description": "The Red Cross provides disaster relief, blood donation services, and emergency assistance worldwide."
+      },
+      {
+        "Title": "World Health Organization (WHO)",
+        "URL": "https://www.who.int",
+        "Type": "NGO",
+        "Category": "About Page",
+        "Description": "The World Health Organization (WHO) leads global health responses and provides public health guidance."
+      },
+      {
+        "Title": "Greenpeace",
+        "URL": "https://www.greenpeace.org",
+        "Type": "NGO",
+        "Category": "Fundraising Page",
+        "Description": "Greenpeace campaigns for environmental protection and raises funds for sustainability projects."
+      }
+    ]
+  },
+  {
+    "topic": "Social Media Platforms",
+    "listOfURL": [
+      {
+        "Title": "Facebook",
+        "URL": "https://www.facebook.com",
+        "Type": "Social Media",
+        "Category": "Main Page",
+        "Description": "Facebook is a global social networking site that allows users to connect, share, and communicate."
+      },
+      {
+        "Title": "Twitter",
+        "URL": "https://www.twitter.com",
+        "Type": "Social Media",
+        "Category": "About Page",
+        "Description": "Twitter is a microblogging platform where users share short messages and engage in discussions."
+      },
+      {
+        "Title": "LinkedIn",
+        "URL": "https://www.linkedin.com",
+        "Type": "Social Media",
+        "Category": "Job Listing Page",
+        "Description": "LinkedIn is a professional networking site that connects job seekers with employers."
+      },
+      {
+        "Title": "Instagram",
+        "URL": "https://www.instagram.com",
+        "Type": "Social Media",
+        "Category": "Main Page",
+        "Description": "Instagram is a photo and video-sharing platform widely used for social interaction and branding."
+      }
+    ]
+  },
+  {
+    "topic": "Cryptocurrency Websites",
+    "listOfURL": [
+      {
+        "Title": "Coinbase",
+        "URL": "https://www.coinbase.com",
+        "Type": "Crypto Exchange",
+        "Category": "Main Page",
+        "Description": "Coinbase is a cryptocurrency exchange where users can buy, sell, and manage crypto assets."
+      },
+      {
+        "Title": "Binance",
+        "URL": "https://www.binance.com",
+        "Type": "Crypto Exchange",
+        "Category": "Trading Page",
+        "Description": "Binance is one of the world's largest crypto trading platforms with multiple exchange options."
+      },
+      {
+        "Title": "Ethereum",
+        "URL": "https://www.ethereum.org",
+        "Type": "Blockchain",
+        "Category": "About Page",
+        "Description": "Ethereum is a decentralized blockchain platform that supports smart contracts and dApps."
+      },
+      {
+        "Title": "Bitcoin.org",
+        "URL": "https://www.bitcoin.org",
+        "Type": "Crypto Information",
+        "Category": "Educational Page",
+        "Description": "Bitcoin.org provides educational resources and information about Bitcoin and its network."
+      }
+    ]
+  },
+  {
+    "topic": "E-commerce Websites",
+    "listOfURL": [
+      {
+        "Title": "Amazon",
+        "URL": "https://www.amazon.com",
+        "Type": "E-commerce",
+        "Category": "Main Page",
+        "Description": "Amazon is a global online marketplace offering a wide range of products and services."
+      },
+      {
+        "Title": "eBay",
+        "URL": "https://www.ebay.com",
+        "Type": "E-commerce",
+        "Category": "Marketplace",
+        "Description": "eBay is an online marketplace that allows users to buy and sell new or used items through auctions and direct sales."
+      },
+      {
+        "Title": "Shopify",
+        "URL": "https://www.shopify.com",
+        "Type": "E-commerce",
+        "Category": "Business Page",
+        "Description": "Shopify provides a platform for businesses to create their own online stores and manage sales."
+      },
+      {
+        "Title": "Alibaba",
+        "URL": "https://www.alibaba.com",
+        "Type": "Wholesale Marketplace",
+        "Category": "Main Page",
+        "Description": "Alibaba connects global buyers and suppliers for wholesale trade and manufacturing services."
+      }
+    ]
+  },
+  {
+    "topic": "News and Media Websites",
+    "listOfURL": [
+      {
+        "Title": "BBC News",
+        "URL": "https://www.bbc.com",
+        "Type": "News Media",
+        "Category": "Main Page",
+        "Description": "BBC provides global news coverage, investigative journalism, and live broadcasts."
+      },
+      {
+        "Title": "CNN",
+        "URL": "https://www.cnn.com",
+        "Type": "News Media",
+        "Category": "Main Page",
+        "Description": "CNN is an international news network covering politics, business, technology, and more."
+      },
+      {
+        "Title": "The New York Times",
+        "URL": "https://www.nytimes.com",
+        "Type": "Newspaper",
+        "Category": "Editorial Page",
+        "Description": "The New York Times delivers in-depth journalism, opinion pieces, and investigative reports."
+      },
+      {
+        "Title": "Reuters",
+        "URL": "https://www.reuters.com",
+        "Type": "News Agency",
+        "Category": "Business News",
+        "Description": "Reuters provides real-time global news coverage, including business and financial updates."
+      }
+    ]
+  },
+  {
+    "topic": "Educational Platforms",
+    "listOfURL": [
+      {
+        "Title": "Khan Academy",
+        "URL": "https://www.khanacademy.org",
+        "Type": "Education",
+        "Category": "Main Page",
+        "Description": "Khan Academy offers free online courses and educational resources for students of all levels."
+      },
+      {
+        "Title": "Coursera",
+        "URL": "https://www.coursera.org",
+        "Type": "Education",
+        "Category": "Course Listing Page",
+        "Description": "Coursera partners with universities to provide online courses and degree programs."
+      },
+      {
+        "Title": "Udemy",
+        "URL": "https://www.udemy.com",
+        "Type": "Education",
+        "Category": "Course Listing Page",
+        "Description": "Udemy is an online learning platform with courses on various topics, including technology and business."
+      },
+      {
+        "Title": "edX",
+        "URL": "https://www.edx.org",
+        "Type": "Education",
+        "Category": "About Page",
+        "Description": "edX offers university-level online courses from institutions like Harvard and MIT."
+      }
+    ]
+  }
+]
+
+  

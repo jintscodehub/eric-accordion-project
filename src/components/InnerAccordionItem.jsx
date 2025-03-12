@@ -13,7 +13,12 @@ export default function InnerAccordionItem({
       }}
     >
       <div className="accordion-header">
-        <h2 className="accordion-title">{Title}</h2>
+        <h2 className="accordion-title">
+          {Title}:{" "}
+          <a href={URL} className="text-sm">
+            ({URL})
+          </a>
+        </h2>
         <button
           onClick={(e) => {
             e.stopPropagation();
@@ -29,10 +34,10 @@ export default function InnerAccordionItem({
         <div
           style={{ padding: "1rem", backgroundColor: "#f7f9f8", margin: "5px" }}
         >
-          <p>URL: {URL}</p>
           <p>Type: {Type}</p>
           <p>Category:{Category}</p>
           <p>Description: {Description}</p>
+          <p>URL: {URL}</p>
         </div>
       )}
     </li>

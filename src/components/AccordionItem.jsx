@@ -25,7 +25,7 @@ export default function AccordionItem({
               e.stopPropagation();
               onItemClicked();
             }}
-            className={isClicked ? "active-btn" : ""}
+            className={isClicked ? "active-btn" : "btn"}
           >
             {isClicked ? "-" : "+"}
           </button>
